@@ -1,0 +1,10 @@
+.login{
+  width: 50vw;
+  margin:0 auto;
+  padding-top: 200px;
+}
+.login .ant-form-item-label > label{
+  font-size: 20px!important;
+  color: #37b3a0;
+  font-weight: 500;
+}

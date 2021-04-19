@@ -1,0 +1,20 @@
+@import 'login.css';
+.ant-btn-primary{
+    margin: 0 5px;
+    border: #80f1dc 1px solid!important;
+    background: #37b3a0!important;
+    border-radius: 7px !important;
+}
+.ant-btn-primary:hover, .ant-btn-primary:focus{
+    color: #37b3a0!important;
+    background: white!important;
+}
+.ant-btn{
+    margin: 0 5px;
+    border: #41efd9 1px solid!important;
+    border-radius: 7px !important;
+}
+/*日期选择器*/
+.ant-picker{
+    width: 100%;
+}
